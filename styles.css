@@ -4,6 +4,7 @@ body {
   margin: 0;
   background-image: url('fondo.jpg');
   background-size: cover;
+  background-repeat: no-repeat;
   font-family: 'ZCOOL KuaiLe', cursive;
 }
 h1 {
